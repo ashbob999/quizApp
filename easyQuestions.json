@@ -1,14 +1,46 @@
 {
-"questions":
-[
-"What is a Cutlass?"
-],
-"answerChoices":
-[
-["gun", "sword", "axe", "oar"]
-],
-"answers":
-[
-"sword"
-]
+   "questions":[
+      "What is a cutlass? e",
+      "What is the name of the pirate from the book Peter Pan? e",
+      "Edward teach was the real name of the priate \"blackbeard\"",
+      "What is the traditional name for the skull and crossbones flag? e",
+      "What is the name of blackbeard's ship?"
+   ],
+   "answerChoices":[
+      [
+         "pistol",
+         "sword",
+         "cannon",
+         "musket"
+      ],
+      [
+         "Captain Hook",
+         "long john silver",
+         "Jack sparrow",
+         "captain nemo"
+      ],
+      [
+         "true",
+         "false"
+      ],
+      [
+         "Jolly Roger",
+         "ol faithful",
+         "la estrella solitaria",
+         "seawolf McSwaggers"
+      ],
+      [
+         "endeavour",
+         "quenn ann's revenge",
+         "black pearl",
+         "maelstrom"
+      ]
+   ],
+   "answers":[
+      "sword",
+      "captain Hook",
+      "true",
+      "Jolly Roger",
+      "quenn ann's revenge"
+   ]
 }
