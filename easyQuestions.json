@@ -1,46 +1,98 @@
 {
    "questions":[
-      "What is a cutlass?",
-      "What is the name of the pirate from the book Peter Pan?",
-      "Edward teach was the real name of the priate \"blackbear",
-      "What is the traditional name for the skull and crossbones flag?",
-      "What is the name of blackbeard's shi"
+      "Which country has the biggest population in Europ",
+      "who did david cameron replace as uk p.m",
+      "which english king married six time",
+      "what language is spoken in brazi",
+      "appollo landed 2 missions on the moo",
+      "water is called H2",
+      "mars is the 5th from the su",
+      "hawaii is part of the US",
+      "vatican city is in the E",
+      "How many points is a try worth in Rugby leagu",
+      "Who stands between the posts in football to defend their goa",
+      "In badminton you hit the shuttlecoc",
+      "In cricket, 8 is the most you can score with one hit of the bal"
    ],
    "answerChoices":[
       [
-         "pistol",
-         "sword",
-         "cannon",
-         "musket"
+         "russia",
+         "germany",
+         "uk",
+         "italy"
       ],
       [
-         "Captain Hook",
-         "long john silver",
-         "Jack sparrow",
-         "captain nemo"
+         "gordon brown",
+         "tony blair",
+         "john major",
+         "theresa may"
       ],
       [
-         "true",
-         "false"
+         "henry 8",
+         "henry 7",
+         "george 2",
+         "charles 1"
       ],
       [
-         "Jolly Roger",
-         "ol faithful",
-         "la estrella solitaria",
-         "seawolf McSwaggers"
+         "spanish",
+         "brazilian",
+         "portuguese",
+         "italian"
       ],
       [
-         "endeavour",
-         "quenn ann's revenge",
-         "black pearl",
-         "maelstrom"
+         "True",
+         "False"
+      ],
+      [
+         "True",
+         "False"
+      ],
+      [
+         "True",
+         "False"
+      ],
+      [
+         "True",
+         "False"
+      ],
+      [
+         "True",
+         "False"
+      ],
+      [
+         "2",
+         "4",
+         "6",
+         "5"
+      ],
+      [
+         "Striker",
+         "Goalkeeper",
+         "Defender",
+         "Midfielder"
+      ],
+      [
+         "True",
+         "False"
+      ],
+      [
+         "True",
+         "False"
       ]
    ],
    "answers":[
-      "sword",
-      "captain Hook",
-      "true",
-      "Jolly Roger",
-      "quenn ann's revenge"
+      "russia",
+      "gordon brown",
+      "henry 8",
+      "portuguese",
+      "False",
+      "True",
+      "False",
+      "True",
+      "False",
+      "4",
+      "Goalkeeper",
+      "True",
+      "False"
    ]
 }
