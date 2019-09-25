@@ -1,14 +1,14 @@
 {
 "questions":
 [
-
+"What is a Cutlass?"
 ],
 "answerChoices":
 [
-
+["gun", "sword", "axe", "oar"],
 ],
 "answers":
 [
-
+"sword"
 ]
 }
