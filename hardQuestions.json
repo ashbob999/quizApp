@@ -1,18 +1,25 @@
 {
    "questions":[
-      "Which German team won the 2013 champions leagu",
-      "Who was Princess Diana related t",
-      "Which ship took the pilgrims to north America in 162",
-      "Who fought in the seven year wa",
-      "Vehicles in Granada use the licence W",
-      "Freddie Mercury died in 199",
-      "Jubilant means filled with jo",
-      "Was the colour orange named after the frui",
-      "It's illegal to pee in the cocean in portuga",
-      "Which football team has won the UEFA Champions League the most time",
-      "Which football player famously scored a goal against England with his hand, and the moment is reffered to as \"Hand of God",
-      "Germany have won the World Cup the most amount of time",
-      "Jurgen Klopp was named the best manager for the best Fifa Football awards 201"
+      "Which German team won the 2013 champions league?",
+      "Who was Princess Diana related to?",
+      "Which ship took the pilgrims to north America in 1620?",
+      "Who fought in the seven year war?",
+      "Vehicles in Granada use the licence WG.",
+      "Freddie Mercury died in 1990.",
+      "Jubilant means filled with joy.",
+      "Was the colour orange named after the fruit.",
+      "It's illegal to pee in the cocean in portugal.",
+      "Which football team has won the UEFA Champions League the most times?",
+      "Which football player famously scored a goal against England with his hand, and the moment is reffered to as \"Hand of God\"?",
+      "Germany have won the World Cup the most amount of times.",
+      "Jurgen Klopp was named the best manager for the best Fifa Football awards 2019.",
+      "Pirates thought piercing their ears would improve their eyesight.",
+      "What year was Blackbeard born?",
+      "When was the \"Golden era of piracy\" in the caribbean?",
+      "The english word \"pirate\" is derived from which of the following latin terms?",
+      "Would the captain of a pirate ship be entitled to a double share of the loot.",
+      "which of these words was used for pirates operating in the mediterranean?",
+      "In 1801, a fleet of notorious pirates got together and declared war, the first Barbary war had begun, but who had the pirates declared war on?"
    ],
    "answerChoices":[
       [
@@ -76,6 +83,44 @@
       [
          "True",
          "False"
+      ],
+      [
+         "True",
+         "False"
+      ],
+      [
+         "1520",
+         "1650",
+         "1590",
+         "1680"
+      ],
+      [
+         "1580-1660",
+         "1600 - 1680",
+         "1650-1730",
+         "1690-1770"
+      ],
+      [
+         "pirates",
+         "pirete",
+         "pyrit",
+         "pirata"
+      ],
+      [
+         "True",
+         "False"
+      ],
+      [
+         "privateer",
+         "buccaneer",
+         "raider",
+         "corsair"
+      ],
+      [
+         "Spain",
+         "France",
+         "USA",
+         "China"
       ]
    ],
    "answers":[
@@ -91,6 +136,13 @@
       "Real Madrid",
       "Diego Maradona",
       "False",
-      "True"
+      "True",
+      "True",
+      "1680",
+      "1650-1730",
+      "pirata",
+      "True",
+      "corsair",
+      "USA"
    ]
 }
