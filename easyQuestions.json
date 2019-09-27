@@ -47,24 +47,24 @@
          "Italian"
       ],
       [
-         "True",
-         "False"
+         "True  ",
+         "False   "
       ],
       [
-         "True",
-         "False"
+         "True  ",
+         "False   "
       ],
       [
-         "True",
-         "False"
+         "True  ",
+         "False   "
       ],
       [
-         "True",
-         "False"
+         "True  ",
+         "False   "
       ],
       [
-         "True",
-         "False"
+         "True  ",
+         "False   "
       ],
       [
          "2",
@@ -79,12 +79,12 @@
          "Midfielder"
       ],
       [
-         "True",
-         "False"
+         "True  ",
+         "False   "
       ],
       [
-         "True",
-         "False"
+         "True  ",
+         "False   "
       ],
       [
          "Pistol",
@@ -99,8 +99,8 @@
          "Captain Hook"
       ],
       [
-         "True",
-         "False"
+         "True  ",
+         "False   "
       ],
       [
          "Jolly Roger",
@@ -121,8 +121,8 @@
          "Johnny Wright"
       ],
       [
-         "True",
-         "False"
+         "True  ",
+         "False   "
       ]
    ],
    "answers":[
@@ -130,21 +130,21 @@
       "Gordon Brown",
       "Henry 8",
       "Portuguese",
-      "False",
-      "True",
-      "False",
-      "True",
-      "False",
+      "False   ",
+      "True  ",
+      "False   ",
+      "True  ",
+      "False   ",
       "4",
       "Goalkeeper",
-      "True",
-      "False",
+      "True  ",
+      "False   ",
       "Sword",
       "Captain Hook",
-      "True",
+      "True  ",
       "Jolly Roger",
       "Quenn Ann's Revenge",
       "Jack Sparrow",
-      "False"
+      "False   "
    ]
 }
