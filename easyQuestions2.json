@@ -1,0 +1,150 @@
+{
+   "questions":[
+      "Which country has the biggest population in Europe?",
+      "Who did David Cameron replace as uk p.m.?",
+      "Which english king married six times?",
+      "What language is spoken in Brazil?",
+      "Apollo landed 2 missions on the moon.",
+      "Water is called H2O.",
+      "Mars is the 5th planet from the sun.",
+      "Hawaii is part of the USA.",
+      "Vatican city is in the EU.",
+      "How many points is a try worth in Rugby league?",
+      "Who stands between the posts in football to defend their goal?",
+      "In badminton you hit the shuttlecock.",
+      "In cricket, 8 is the most you can score with one hit of the ball.",
+      "What is a cutlass?",
+      "What is the name of the pirate from the book Peter Pan?",
+      "Edward Teach was the real name of the priate \"Blackbeard\"",
+      "What is the traditional name for the skull and crossbones flag?",
+      "What is the name of blackbeard's ship?",
+      "Who is the pirate leader in the film \"Pirates of the Caribbean\"?",
+      "The port side if the right hand side of the ship."
+   ],
+   "answerChoices":[
+      [
+         "UK",
+         "Germany",
+         "Russia",
+         "Italy"
+      ],
+      [
+         "Gordon Brown",
+         "Tony Blair",
+         "John Major",
+         "Theresa May"
+      ],
+      [
+         "Henry 8",
+         "Henry 7",
+         "George 2",
+         "Charles 1"
+      ],
+      [
+         "Spanish",
+         "Brazilian",
+         "Portuguese",
+         "Italian"
+      ],
+      [
+         "True ",
+         "False "
+      ],
+      [
+         "True ",
+         "False "
+      ],
+      [
+         "True ",
+         "False "
+      ],
+      [
+         "True ",
+         "False "
+      ],
+      [
+         "True ",
+         "False "
+      ],
+      [
+         "2",
+         "4",
+         "6",
+         "5"
+      ],
+      [
+         "Striker",
+         "Goalkeeper",
+         "Defender",
+         "Midfielder"
+      ],
+      [
+         "True ",
+         "False "
+      ],
+      [
+         "True ",
+         "False "
+      ],
+      [
+         "Pistol",
+         "Sword",
+         "Cannon",
+         "Musket"
+      ],
+      [
+         "Captain Nemo",
+         "Long John Silver",
+         "Jack Sparrow",
+         "Captain Hook"
+      ],
+      [
+         "True ",
+         "False "
+      ],
+      [
+         "Jolly Roger",
+         "Ol Faithful",
+         "la Estrella Solitaria",
+         "Seawolf McSwaggers"
+      ],
+      [
+         "Endeavour",
+         "Maelstrom",
+         "Black Pearl",
+         "Quenn Ann's Revenge"
+      ],
+      [
+         "Jim Sparks",
+         "Jack Sparrow",
+         "Joe Riggs",
+         "Johnny Wright"
+      ],
+      [
+         "True ",
+         "False "
+      ]
+   ],
+   "answers":[
+      "Russia",
+      "Gordon Brown",
+      "Henry 8",
+      "Portuguese",
+      "False ",
+      "True ",
+      "False ",
+      "True ",
+      "False ",
+      "4",
+      "Goalkeeper",
+      "True ",
+      "False ",
+      "Sword",
+      "Captain Hook",
+      "True ",
+      "Jolly Roger",
+      "Quenn Ann's Revenge",
+      "Jack Sparrow",
+      "False "
+   ]
+}
