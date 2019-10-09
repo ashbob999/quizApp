@@ -2,7 +2,7 @@
    "questions":[
       "Which German team won the 2013 champions league?",
       "Who was Princess Diana related to?",
-      "Which ship took the pilgrims to north America in 1620?",
+      "Which ship took the pilgrims to North America in 1620?",
       "Who fought in the seven year war?",
       "Vehicles in Granada use the licence WG.",
       "Freddie Mercury died in 1990.",
@@ -18,7 +18,7 @@
       "When was the \"Golden era of piracy\" in the caribbean?",
       "The english word \"pirate\" is derived from which of the following latin terms?",
       "Would the captain of a pirate ship be entitled to a double share of the loot.",
-      "which of these words was used for pirates operating in the mediterranean?",
+      "Which of these words was used for pirates operating in the Mediterranean?",
       "In 1801, a fleet of notorious pirates got together and declared war, the first Barbary war had begun, but who had the pirates declared war on?"
    ],
    "answerChoices":[
@@ -41,9 +41,9 @@
          "Sata Maria"
       ],
       [
-         "GB and France",
+         "Britain and France",
          "Spain and France",
-         "US and Britan",
+         "US and Britain",
          "France and Portugal"
       ],
       [
@@ -70,7 +70,7 @@
          "FC Barcelona",
          "AC Millan",
          "Real Madrid",
-         "liverpool"
+         "Liverpool"
       ],
       [
          "Diego Maradona",
@@ -97,26 +97,26 @@
          "1680"
       ],
       [
-         "1580-1660",
+         "1580 - 1660",
          "1600 - 1680",
-         "1650-1730",
-         "1690-1770"
+         "1650 - 1730",
+         "1690 - 1770"
       ],
       [
-         "pirates",
-         "pirete",
-         "pyrit",
-         "pirata"
+         "Pirates",
+         "Pirete",
+         "Pyrit",
+         "Pirata"
       ],
       [
          "True ",
          "False "
       ],
       [
-         "privateer",
-         "buccaneer",
-         "raider",
-         "corsair"
+         "Privateer",
+         "Buccaneer",
+         "Raider",
+         "Corsair"
       ],
       [
          "Spain",
@@ -128,8 +128,8 @@
    "answers":[
       "Bayern Munich",
       "Winston Churchill",
-      "may flower",
-      "GB and France",
+      "May Flower",
+      "Britain and France",
       "True ",
       "False ",
       "True ",
@@ -141,10 +141,10 @@
       "True ",
       "True ",
       "1680",
-      "1650-1730",
-      "pirata",
+      "1650 - 1730",
+      "Pirata",
       "True ",
-      "corsair",
+      "Corsair",
       "USA"
    ]
 }
